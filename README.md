@@ -1,7 +1,7 @@
 # route-challange
 
 This project have objective to test the MERN (MongoDB, Express.js, React.js, Node.js) stack skills and also good pratices.
-The user could is able to search an address and it geo location provided by <a href="https://developers.google.com/maps/documentation/geocoding/overview?hl=pt-br">Google GeoCode API</a> and register deliveries. Using the <a href=">React-Leaflet</a> to present interactive maps showing the deliveries.
+The user could is able to search an address and it geo location provided by <a href="https://developers.google.com/maps/documentation/geocoding/overview?hl=pt-br">Google GeoCode API</a> and register deliveries. Using the React-Leaflet to present interactive maps showing the deliveries.
 
 The database collections is currently online at a free cluster in MongoDB Atlas.
 
