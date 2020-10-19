@@ -5,16 +5,16 @@ The user could is able to search an address and it geo location provided by <a h
 
 The database collections is currently online at a free cluster in MongoDB Atlas.
 
-At the backend, I used Nest.js framework which provide a lot build-in features speeding up the development.
+At the backend, I used Nest.js framework which provide a lot built-in features speeding up the development.
 The beckend have 100% unit test coverage, you can test it using: 
 
 ```bash
 $ npm run test:coverage
 ```
-The frontend is pretty deafult React coding with hooks. I tried to abstract as much as I can to segregate it in components to be reusable a clean code.
+The frontend is pretty default react coding with hooks. I tried to abstract as much as I can to segregate it in components to be reusable a clean code.
 To validate the form data I used <a href="https://react-hook-form.com/">React Hook Form</a>
 
-I didn't use any UI frameworks. I was wondering just to keep it simpl but also elegant respecting the desired layout in the challange. And this is the final look!
+I didn't use any UI frameworks. I was wondering just to keep it simple but also elegant, respecting the desired layout in the challange. And this is the final look!
 
 <img src="https://i.ibb.co/bHh5cVs/img.png" alt="Project Image"/>
 
