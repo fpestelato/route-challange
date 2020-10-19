@@ -1,3 +1,6 @@
 [submodule "route-challenge-backend"]
 	path = route-challenge-backend
 	url = https://github.com/fpestelato/route-challenge-backend.git
+[submodule "route-challenge-frontend"]
+	path = route-challenge-frontend
+	url = https://github.com/fpestelato/route-challenge-frontend.git
